@@ -1,0 +1,67 @@
+{
+  "name": "Dragon Lord #13",
+  "description": "Dragon Lord NFT",
+  "image": "ipfs://QmYCN6s4sSn36sU1RjtbEmWsYNZNcRBsVNC8NWFGkTUgha/13.png",
+  "dna": "80a9c288e44ee03cdb9c332f2d47c093026943ef",
+  "edition": 13,
+  "date": 1728697330934,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "BrownSand"
+    },
+    {
+      "trait_type": "base-image",
+      "value": "Base"
+    },
+    {
+      "trait_type": "bg-stars",
+      "value": "YellowGreenStars"
+    },
+    {
+      "trait_type": "bg-stones",
+      "value": "GreyStones"
+    },
+    {
+      "trait_type": "dragon-base",
+      "value": "InverseDragon"
+    },
+    {
+      "trait_type": "dragon-eyes",
+      "value": "DarkRedEye"
+    },
+    {
+      "trait_type": "dragon-fire",
+      "value": "BlueFire"
+    },
+    {
+      "trait_type": "front-lights",
+      "value": "AquaLights"
+    },
+    {
+      "trait_type": "hammer-and-torch",
+      "value": "Sword"
+    },
+    {
+      "trait_type": "number-plates",
+      "value": "SkyBlueNumbers"
+    },
+    {
+      "trait_type": "truck",
+      "value": "AquaBlueTruck"
+    },
+    {
+      "trait_type": "truck-fire",
+      "value": "TruckFire"
+    },
+    {
+      "trait_type": "viking-base",
+      "value": "GreenViking"
+    },
+    {
+      "trait_type": "upper-lights",
+      "value": "GlowingLights"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

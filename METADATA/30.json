@@ -1,0 +1,67 @@
+{
+  "name": "Dragon Lord #30",
+  "description": "Playworld Dragon Lord NFT",
+  "image": "ipfs://QmYCN6s4sSn36sU1RjtbEmWsYNZNcRBsVNC8NWFGkTUgha/30.png",
+  "dna": "6c901b5c63ce2d3940b469106562cc8f0f2550f8",
+  "edition": 30,
+  "date": 1728697341836,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "AquaGreen"
+    },
+    {
+      "trait_type": "base-image",
+      "value": "Base"
+    },
+    {
+      "trait_type": "bg-stars",
+      "value": "RedPurpleStars"
+    },
+    {
+      "trait_type": "bg-stones",
+      "value": "RedAquaStones"
+    },
+    {
+      "trait_type": "dragon-base",
+      "value": "PurpleBlueDragon"
+    },
+    {
+      "trait_type": "dragon-eyes",
+      "value": "BlueEye"
+    },
+    {
+      "trait_type": "dragon-fire",
+      "value": "LightBlueFire"
+    },
+    {
+      "trait_type": "front-lights",
+      "value": "RainbowLights"
+    },
+    {
+      "trait_type": "hammer-and-torch",
+      "value": "OrangeBeam"
+    },
+    {
+      "trait_type": "number-plates",
+      "value": "SkyBlueNumbers"
+    },
+    {
+      "trait_type": "truck",
+      "value": "PurpleBlueTruck"
+    },
+    {
+      "trait_type": "truck-fire",
+      "value": "TruckFire"
+    },
+    {
+      "trait_type": "viking-base",
+      "value": "LightBlueViking"
+    },
+    {
+      "trait_type": "upper-lights",
+      "value": "GoldenLights"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
